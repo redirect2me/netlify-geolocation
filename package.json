@@ -1,0 +1,17 @@
+{
+  "name": "netlify-geolocation",
+  "version": "1.0.0",
+  "description": "IP Geolocation via Netlify edge function headers",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@netlify/edge-functions": "^2.3.1"
+  }
+}

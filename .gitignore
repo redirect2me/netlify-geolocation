@@ -1,0 +1,19 @@
+*~
+build.json
+.cache
+*.class
+crash.log
+.DS_Store
+.env
+.idea/
+.jekyll-metadata
+node_modules
+*.pyc
+.sass-cache/
+_site/
+tmp/
+_tmp/
+venv/
+
+# Local Netlify folder
+.netlify
