@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@netlify/edge-functions": "^2.3.1"
+    "@netlify/edge-functions": "^2.3.1",
+    "@types/node": "^20.11.19"
   }
 }

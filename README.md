@@ -1,5 +1,7 @@
 # Netlify Geolocation  [<img alt="Geolocation logo" src="docs/favicon.svg" height="90" align="right" />](https://netlify-geo.redirect2.me/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/96f4db97-3110-4a94-8f6d-eefd5aab54bc/deploy-status)](https://app.netlify.com/sites/geolocation-r2/deploys)
+
 Server that determines your physical location by looking at headers sent to Netlify edge functions.
 
 Try it with: [Netlify](https://netlify-geo.redirect2.me/)

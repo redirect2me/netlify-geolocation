@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "build.json": "./build.json",
+        "handleJsonp.mts": "./src/handleJsonp.mts"
+    }
+}
