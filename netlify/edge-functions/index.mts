@@ -1,7 +1,8 @@
 import type { Config, Context } from "@netlify/edge-functions";
 
 export default async function handler(req: Request, context: Context) {
-    const html = `<html>
+    const html = `<!DOCTYPE html>
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <title>Netlify Geolocation - Resolve.rs</title>
