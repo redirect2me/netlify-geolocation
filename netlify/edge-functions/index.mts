@@ -29,10 +29,10 @@ export default async function handler(req: Request, context: Context) {
             Time zone: ${context.geo.timezone}<br/>
         </p>
         <details><summary>Raw Data</summary>
-          <pre>${JSON.stringify(context.geo, null, 2)}</pre> 
+          <pre>${JSON.stringify(context.geo, null, 2)}</pre>
         </details>
         <p>
-            <a href="https://github.com/redirect2me/cfw-geolocation">How this works</a>, including API details and source code!
+            <a href="https://github.com/redirect2me/netlify-geolocation">How this works</a>, including API details and source code!
         </p>
         <p>
             <a href="https://resolve.rs/">Resolve.rs</a>

@@ -15,6 +15,7 @@ export default async function handler(req: Request, context: Context) {
         "lastmod": buildInfo.lastmod,
         "tech": `Deno ${Deno.version.deno}`,
         "timestamp": new Date().toISOString(),
+        "Deno.version": JSON.stringify(Deno.version),
     });
 }
 
